@@ -2,6 +2,8 @@ The PsynaryExtractor is command line program to be run from the command line or 
 
 Download all of the files here in the GitHub repository.  If you are using a Mac, you can just download the files in osx.10.12-x64.  Copy them to someplace on your PC.  Keep them all in the same directory.
 
+The program requires .NET Core framework.  Supposedly, these files are already installed on most modern PCs and even Macs.  However, if not, you can download installers for the framework from here: https://dotnet.microsoft.com/download/dotnet-core/3.0
+
 To run the application, do the following:
 
 1. Open a command line window (cmd.exe) or Terminal on a Mac.
@@ -26,6 +28,12 @@ So, for me, I run this like:
 
 PsynaryExporter.exe localhost james MyPassword psynary
 
+For the mac, it would be something like:
+
+./PsynaryExporter localhost james MyPassword psynary
+
 You will be prompted with a serious of questions.  Each question has a default answer that can be used by simply pressing enter.
+
+On a hefty database, the program can take some time to run.
 
 I hope this helps.  Let me know if you have more questions.
