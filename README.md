@@ -26,4 +26,6 @@ So, for me, I run this like:
 
 PsynaryExporter.exe localhost james MyPassword psynary
 
+You will be prompted with a serious of questions.  Each question has a default answer that can be used by simply pressing enter.
+
 I hope this helps.  Let me know if you have more questions.
