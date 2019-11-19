@@ -36,4 +36,4 @@ You will be prompted with a serious of questions.  Each question has a default a
 
 On a hefty database, the program can take some time to run.
 
-I hope this helps.  Let me know if you have more questions.
+When the program is complete, you will have a CSV file with a name of the date and starting time.
