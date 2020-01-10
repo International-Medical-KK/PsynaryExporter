@@ -1,8 +1,21 @@
+# Instructions
+
 The PsynaryExtractor is command line program to be run from the command line or terminal.
 
-Download all of the files here in the GitHub repository.  If you are using a Mac, you can just download the files in osx.10.12-x64.  Copy them to someplace on your PC.  Keep them all in the same directory.
+Download all of the files here in the GitHub repository related to your operating sytem.
+
+## Mac Setup
+
+If you are using a Mac, you can just download the files in osx.10.14-x64.  Copy them to someplace on your PC.  Keep them all in the same directory. (Yes, there are a lot of files, I'm not currently sure if they all are needed, so best to begin with them all)
 
 The program requires .NET Core framework.  Supposedly, these files are already installed on most modern PCs and even Macs.  However, if not, you can download installers for the framework from here: https://dotnet.microsoft.com/download/dotnet-core/3.0
+
+To test if you have .NET support, try running the following command: in terminal:
+dotnet
+
+If it is currently installed, you will see a help screen.  Otherwise, you may need to install it from the link above.
+
+## Running the application
 
 To run the application, do the following:
 
