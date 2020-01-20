@@ -2,7 +2,7 @@
 
 The PsynaryExtractor is command line program to be run from the command line or terminal.
 
-Download all of the files here in the GitHub repository related to your operating sytem.
+Download all of the files here in the GitHub repository related to your operating system.
 
 ## Mac Setup
 
